@@ -16,6 +16,13 @@
   ],
   "author": "Jahir Rayhan",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rayhan-labib7/Bedata-countries.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rayhan-labib7/Bedata-countries.git/issues"
+  },
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
